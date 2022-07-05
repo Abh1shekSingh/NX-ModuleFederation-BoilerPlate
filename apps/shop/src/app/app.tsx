@@ -7,7 +7,7 @@ export function App() {
     <>
       {/* <NxWelcome title="shop" /> */}
       {/* <div /> */}
-      <h1 className='text-7xl text-green-500'>Hey</h1>
+      <h1 className='text-7xl text-green-500'>This is Shop Section</h1>
     </>
   );
 }
